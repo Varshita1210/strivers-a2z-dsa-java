@@ -21,7 +21,24 @@ I am solving **Striver's A2Z DSA Sheet** from basics to advanced and uploading e
 ## 📂 Repository Structure
 
 ```text
+## 📂 Repository Structure
+
+```text
 01-Learn-the-Basics
+└── 01-Things-to-Know-in-Java
+    ├── Input-Output
+    │   └── Solution.java
+    ├── If-Else
+    │   └── Solution.java
+    ├── Switch-Case
+    │   └── Solution.java
+    ├── For-Loops
+    │   └── Solution.java
+    ├── While-Loops
+    │   └── Solution.java
+    └── Pass-by-Reference-and-Value
+        └── Solution.java
+```
 02-Build-up-Logical-Thinking
 03-Patterns
 04-Learn-Java-Collections
@@ -39,7 +56,7 @@ The problems are solved following **Striver's A2Z DSA Sheet**:
 
 ## 📈 Progress
 
-- Total Problems Solved: **1**
+- 01-Learn-the-Basics done ✅
 - Language: **Java**
 - Status: 🟢 In Progress
 
